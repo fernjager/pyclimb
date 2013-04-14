@@ -3,7 +3,7 @@ PyClimb
 
 Entry in PyWeek #4  <http://www.pyweek.org/4/>
 Team: 
-Members: wegstar
+Date: Saturday 07 April, 2007
 
 
 DEPENDENCIES:
